@@ -1,3 +1,27 @@
 .App {
   text-align: center;
 }
+
+.follower-container {
+  width: 20%;
+  margin: 20px 20px;
+}
+
+.follower-container img {
+  width: 250px;
+  border-radius: 50%;
+  padding: 20px;
+  margin: auto;
+}
+
+.section-two {
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
+
+.user-container img {
+  width: 200px;
+  border-radius: 50%;
+  padding: 20px;
+}
